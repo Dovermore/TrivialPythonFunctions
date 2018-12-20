@@ -1,0 +1,2 @@
+# TrivialFunctions
+ INITIALIZE README CONTENT

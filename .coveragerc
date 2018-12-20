@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    TrivialFunctions/__main__.py
+    TrivialFunctions/_version.py
+    versioneer.py
+    tests/*
